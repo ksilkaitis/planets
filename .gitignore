@@ -1,0 +1,5 @@
+#here are filenames and wildcards for what git ignores
+
+*.dat
+*.bak
+results/
